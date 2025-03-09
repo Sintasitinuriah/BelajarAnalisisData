@@ -19,9 +19,8 @@
 
 ## **📸 Tampilan Dashboard**
 
-![E-Commerce Dashboard Preview]("./screenshot/Screenshot 2025-03-09 203542.png")
+![E-Commerce Dashboard Preview](screenshot/Screenshot%202025-03-09%20203542.png)
 
-_(Tambahkan screenshot dashboard di sini agar lebih menarik!)_
 
 ---
 
