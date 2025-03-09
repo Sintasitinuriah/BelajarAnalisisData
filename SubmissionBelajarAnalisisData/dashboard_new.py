@@ -179,7 +179,7 @@ def main():
     )
     
     world = get_world_geodata()
-    df = pd.read_csv("dataset/all_data.csv")
+    df = pd.read_csv(r".\dataset\all_data.csv")
     df['order_purchase_timestamp'] = pd.to_datetime(df['order_purchase_timestamp'])
     df['month_year'] = df['order_purchase_timestamp'].dt.to_period('M')
     df['year'] = df['order_purchase_timestamp'].dt.year
