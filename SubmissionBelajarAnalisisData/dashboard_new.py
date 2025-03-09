@@ -179,8 +179,8 @@ def main():
     )
     
     world = get_world_geodata()
-    url = "https://github.com/Sintasitinuriah/BelajarAnalisisData/tree/main/SubmissionBelajarAnalisisData/dataset"
-    df = pd.read_csv(url)
+    url = "https://raw.githubusercontent.com/Sintasitinuriah/BelajarAnalisisData/main/SubmissionBelajarAnalisisData/dataset/all_data.csv"
+    df = pd.read_csv(url, sep=",", encoding="utf-8")
     df['order_purchase_timestamp'] = pd.to_datetime(df['order_purchase_timestamp'])
     df['month_year'] = df['order_purchase_timestamp'].dt.to_period('M')
     df['year'] = df['order_purchase_timestamp'].dt.year
