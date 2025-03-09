@@ -57,14 +57,14 @@
 
 ---
 
-## **🎯 Ingin Berkontribusi?**
+<!-- ## **🎯 Ingin Berkontribusi?**
 
 Kami menyambut kontribusi dari siapa pun! Jika ingin menambahkan fitur baru atau memperbaiki bug:
 1. **Fork repositori ini** 📂
 2. **Buat branch baru** untuk perubahan Anda 🛠️
 3. **Lakukan pull request** dan jelaskan perubahan yang dilakukan 🔥
 
----
+--- -->
 
 ## **📬 Kontak**
 
