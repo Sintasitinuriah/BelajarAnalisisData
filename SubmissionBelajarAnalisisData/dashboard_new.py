@@ -179,7 +179,8 @@ def main():
     )
     
     world = get_world_geodata()
-    df = pd.read_csv("./dataset/all_data.csv")
+    url = "https://github.com/Sintasitinuriah/BelajarAnalisisData/tree/main/SubmissionBelajarAnalisisData/dataset"
+    df = pd.read_csv(url)
     df['order_purchase_timestamp'] = pd.to_datetime(df['order_purchase_timestamp'])
     df['month_year'] = df['order_purchase_timestamp'].dt.to_period('M')
     df['year'] = df['order_purchase_timestamp'].dt.year
