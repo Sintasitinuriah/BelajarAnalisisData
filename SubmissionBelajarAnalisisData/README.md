@@ -2,7 +2,7 @@
 
 🚀 **E-Commerce Dashboard** adalah aplikasi berbasis web yang menyediakan analisis visual terkait transaksi pelanggan, metode pembayaran, review produk, dan segmentasi pelanggan dalam sebuah platform e-commerce.
 
-🔗 **Coba Aplikasinya di sini:** [E-Commerce Dashboard](https://stnrhanlisisdat.streamlit.app/)
+🔗 **Coba Aplikasinya di sini:** [E-Commerce Dashboard](https://stnrhanlsdtecommerce.streamlit.app/)
 
 ---
 
@@ -52,7 +52,7 @@
 
 3️⃣ **Jalankan Aplikasi Streamlit**  
    ```bash
-   streamlit run dashboard_new.py
+   streamlit run dashboad/dashboard_new.py
    ```
 
 ---

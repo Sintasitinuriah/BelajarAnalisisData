@@ -1,1 +1,1 @@
-Akses link deploy streamlit: https://stnrhanlisisdat.streamlit.app/
+Akses link deploy streamlit: https://stnrhanlsdtecommerce.streamlit.app/
