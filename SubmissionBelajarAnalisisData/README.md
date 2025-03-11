@@ -52,7 +52,7 @@
 
 3️⃣ **Jalankan Aplikasi Streamlit**  
    ```bash
-   streamlit run app.py
+   streamlit run dashboard_new.py
    ```
 
 ---
