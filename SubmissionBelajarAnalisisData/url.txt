@@ -1,1 +1,2 @@
 Akses link deploy streamlit: https://stnrhanlsdtecommerce.streamlit.app/
+Akses GoogleDrive: https://drive.google.com/drive/folders/1kW-9Ulb2wxvORoVjzWZiSNUrhuObZKO3?usp=sharing
